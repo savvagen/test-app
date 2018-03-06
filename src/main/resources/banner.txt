@@ -1,0 +1,8 @@
+${AnsiColor.WHITE}
+,--.   ,--.         ,--.
+|  |   |  |  ,---.  |  |  ,---.  ,---.  ,--,--,--.  ,---.
+|  |.'.|  | | .-. : |  | | .--' | .-. | |        | | .-. :
+|   ,'.   | \   --. |  | \ `--. ' '-' ' |  |  |  | \   --.
+'--'   '--'  `----' `--'  `---'  `---'  `--`--`--'  `----'
+
+Spring-boot banner generator: https://devops.datenkollektiv.de/banner.txt/index.html
